@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/email-helper/v)](https://packagist.org/packages/nguyenanhung/email-helper) [![Total Downloads](http://poser.pugx.org/nguyenanhung/email-helper/downloads)](https://packagist.org/packages/nguyenanhung/email-helper) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/email-helper/v/unstable)](https://packagist.org/packages/nguyenanhung/email-helper) [![License](http://poser.pugx.org/nguyenanhung/email-helper/license)](https://packagist.org/packages/nguyenanhung/email-helper) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/email-helper/require/php)](https://packagist.org/packages/nguyenanhung/email-helper)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/email-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/email-helper)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/email-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/email-helper)
+[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/email-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/email-helper)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/email-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/email-helper)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/email-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/email-helper)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/email-helper/php)](https://packagist.org/packages/nguyenanhung/email-helper)
 
 # Email Helper
 
